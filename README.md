@@ -9,3 +9,5 @@ NOTE: Images/Sprites are taken from open source locations on the internet. Will 
   <img src="https://user-images.githubusercontent.com/54038104/90344593-0c99c700-dfe9-11ea-980a-cfebb59a6a1d.PNG" width="480">
 </p>
 
+## Usage
+Pathway to run code: Download entire source code folder → `SpaceDiep_NM.py`
