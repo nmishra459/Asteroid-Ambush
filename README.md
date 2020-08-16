@@ -1,4 +1,4 @@
-# Space Upgrade | Final Project for AP Computer Science A
+# Astroid Ambush! - A Starship Tech Tree Game | Final Project for AP Computer Science A
 
 Welcome to Space Upgrade!
 Description: Two dimensionsional space fighter game with four different upgrade path.
