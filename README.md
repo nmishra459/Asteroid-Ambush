@@ -1,8 +1,10 @@
 # Astroid Ambush! - A Starship Tech Tree Game
 
 <p align="center">
-  <video autoplay loop muted class="embed-responsive embed-responsive-1by1" width="400">
-    <source src="https://user-images.githubusercontent.com/54038104/113739469-d4f1a380-96cd-11eb-8211-0768f0111895.mp4" type="video/mp4"> Your browser does not support the video tag.</video>
+
+ https://user-images.githubusercontent.com/54038104/113739840-2f8aff80-96ce-11eb-8bf6-351b910de5c9.mp4
+
+
 </p>
   
   
