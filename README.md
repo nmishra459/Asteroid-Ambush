@@ -1,7 +1,7 @@
 # Astroid Ambush! - A Starship Tech Tree Game
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/54038104/113740962-3403e800-96cf-11eb-8e18-84439916b8f2.gif" width="400" height="400">
+<img src="https://user-images.githubusercontent.com/54038104/113740962-3403e800-96cf-11eb-8e18-84439916b8f2.gif" width="480" height="480">
 </p>
 
   
