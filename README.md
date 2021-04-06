@@ -2,7 +2,7 @@
 
 <p align="center">
 
-![asteroids](https://user-images.githubusercontent.com/54038104/113740962-3403e800-96cf-11eb-8e18-84439916b8f2.gif?s=400)
+![asteroids](https://user-images.githubusercontent.com/54038104/113740962-3403e800-96cf-11eb-8e18-84439916b8f2.gif?s=200)
 
 </p>
 
