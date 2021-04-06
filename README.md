@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <video autoplay loop muted class="embed-responsive embed-responsive-1by1" height="400" width="400"><source src="https://user-images.githubusercontent.com/54038104/113740426-ade7a180-96ce-11eb-9e3b-69a712a9c7b4.gif" type="video/mp4">/video>
+  <video autoplay loop muted class="embed-responsive embed-responsive-1by1" height="400" width="400"><source src="https://user-images.githubusercontent.com/54038104/113740426-ade7a180-96ce-11eb-9e3b-69a712a9c7b4.gif" type="video/mp4"></video>
 </p>
 
   
